@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scruz6
+- 👋 Hi, I’m Spencer
 - 👀 I’m interested in ecological research.
 - 🌱 I’m currently learning R and how to use it in my research.
 - 📫 How to reach me scruz6@uwyo.edu
